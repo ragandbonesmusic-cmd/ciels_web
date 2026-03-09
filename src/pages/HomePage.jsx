@@ -84,7 +84,7 @@ const HomePage = () => {
                 </header>
                 <div className="prose prose-lg max-w-none text-foreground leading-loose mb-6">
                   <p>
-                    A living, breathing archive of improvisational studies, modular synthesis experiments, and occasional creations. These fragments are documented and shared primarily through social platforms, embracing the ephemeral nature of digital consumption.
+                    fA living, breathing archive of improvisational studies, modular synthesis experiments, and occasional creations. These fragments are documented and shared primarily through social platforms, embracing the ephemeral nature of digital consumption.
                   </p>
                 </div>
                 <a 
